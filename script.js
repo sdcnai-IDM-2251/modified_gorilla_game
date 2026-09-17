@@ -640,7 +640,7 @@ function drawBomb() {
     ctx.stroke();
 
     // Draw circle
-    ctx.fillStyle = "white";
+    ctx.fillStyle = "black";
     ctx.beginPath();
     ctx.arc(0, 0, 6, 0, 2 * Math.PI);
     ctx.fill();
