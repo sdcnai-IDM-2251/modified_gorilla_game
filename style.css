@@ -160,7 +160,7 @@ button:hover {
 
 #windmill-head {
   animation-name: rotate;
-  animation-duration: 2s;
+  animation-duration: 15s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
